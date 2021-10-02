@@ -1,7 +1,7 @@
 ### Olá! Eu sou Edimilson Fontes 👋
 
 - 🔭 Desenvolvedor full-stack .net C#
-- 📕 Estudando Angular
+- 📕 Estudando Angular/Typescript
 
 <div>
   <a href="https://github.com/edyfontes">
