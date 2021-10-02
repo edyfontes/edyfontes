@@ -1,6 +1,6 @@
 ### Olá! Eu sou Edimilson Fontes 👋
 
-- 🔭 Hoje trabalho como desenvolvedor full-stack .net C#
+- 🔭 Desenvolvedor full-stack .net C#
 - 📕 Estudando Angular
 
 <div>
